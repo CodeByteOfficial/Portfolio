@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Branding Page",
+    "imageSrc": "projects/EcoHOpe.png",
+    "description": "Created Wildlife Donation SPA, promoting conservation with engaging wildlife events, testimonials, and intuitive donation features.",
+    "skills": ["HTML", "CSS", "Reactjs"],
+    "source": "https://github.com/CodeByteOfficial/Branding-page"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Build a visually appealing, fully animated React portfolio using CSS, ensuring responsive design and modern, good-looking elements for an impressive presentation.",
+    "skills": ["React", "CSS" , "HTML"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Voting App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [ "Express", "Node", "MongoDB"],
+    "source": "https://github.com/CodeByteOfficial/Voting-App"
+  },
+  {
+    "title": "E-commerce",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "source": "https://github.com/CodeByteOfficial/E-commerce"
+  }
+]
